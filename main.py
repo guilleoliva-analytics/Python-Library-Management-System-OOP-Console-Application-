@@ -1,19 +1,3 @@
-# 
-# 
-# MENU
-# 1. Registrar ibros
-# 2. Registrar Usuarios
-# 3. Registrar Préstamo
-# 4. Registrar Devolución
-# 5. Mostrar información de libros
-# 6. Mostrar información de usuarios
-# 7. Salir
-
-
-# Clases:
-# Libro
-# Préstamo
-# Usuario
 
 
 # Funciones para la interfaz en consola
